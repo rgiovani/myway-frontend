@@ -1,0 +1,316 @@
+[
+  {
+    "id":"6b71ea9f-53c1-48ab-9139-84b6fea688bf",
+    "created_at":"2020-09-16T01:27:04.000Z",
+    "updated_at":"2020-09-16T01:27:04.000Z",
+    "title":"Curso de Espanhol Básico",
+    "subtitle":"Esse é o mais novo curso de espanhol básico na plataforma",
+    "description":"Aqui você vai aprender o básico sobre o idioma espanhol com aulas dinamicas",
+    "studentPrerequisites":"Não é preciso pré requisitos",
+    "studentTargets":"Estudantes que querem aprender um novo idioma",
+    "goals":"Ensinar um novo idioma pra voce",
+    "totalScore":4.1,
+    "level":"INICIANTE",
+    "language":"ESPANHOL",
+    "numberOfRatings":1,
+    "teacher":{
+      "id":"48935754-9a97-40d8-b6b4-0a808597f314",
+      "created_at":"2020-09-16T01:26:28.000Z",
+      "updated_at":"2020-09-16T01:26:28.000Z",
+      "firstName":"Luiz",
+      "lastName":"Antonio",
+      "email":"luizantonio@email.com",
+      "about":"Sou formado em Letras",
+      "specialty":"Sou especialista em Ingles"
+    },
+    "courseImage":{
+      "id":"bc614b34-3b57-43c7-b238-a84fbcbc14dc",
+      "created_at":"2020-09-16T01:27:04.000Z",
+      "updated_at":"2020-09-16T01:27:04.000Z",
+      "old_name":"capa_curso_espanhol.jpg",
+      "new_name":"11899-imagem_capa.jpg",
+      "format":"jpg",
+      "link":"http://localhost:3001/11899-imagem_capa.jpg"
+    },
+    "contents":[
+      {
+        "id":"8f2560bc-3ea8-45fd-8ebf-3b95d7ccc711",
+        "created_at":"2020-09-16T01:27:04.000Z",
+        "updated_at":"2020-09-16T01:27:04.000Z",
+        "title":"Aula Inicial",
+        "contentType":"VIDEO",
+        "description":"Aqui voce vai ver como sera a metodologia",
+        "file":{
+          "id":"8758ee37-b6f5-4cc4-b650-e205bd10e42f",
+          "created_at":"2020-09-16T01:27:04.000Z",
+          "updated_at":"2020-09-16T01:27:04.000Z",
+          "old_name":"video_aula_1.mp4",
+          "new_name":"1119-video_aula_1.mp4",
+          "format":"mp4",
+          "link":"http://localhost:3001/1119-video_aula_1.mp4"
+        }
+      },
+      {
+        "id":"77e4e522-ea2a-439f-b2f2-ef78395bc5a1",
+        "created_at":"2020-09-16T01:27:04.000Z",
+        "updated_at":"2020-09-16T01:27:04.000Z",
+        "title":"Questionario 1",
+        "contentType":"PRATICO",
+        "description":"Aqui voce respondera um questionario para validar os conhecimentos",
+        "file":null
+      },
+      {
+        "id":"2085d754-2107-4d70-bf4a-f44ee306e140",
+        "created_at":"2020-09-16T01:27:04.000Z",
+        "updated_at":"2020-09-16T01:27:04.000Z",
+        "title":"O básico sobre o idioma espanhol",
+        "contentType":"VIDEO",
+        "description":"Aqui voce aprender sobre o basico do idioma espanhol",
+        "file":{
+          "id":"61d06f3b-1707-42fb-81d8-164243169482",
+          "created_at":"2020-09-16T01:27:04.000Z",
+          "updated_at":"2020-09-16T01:27:04.000Z",
+          "old_name":"video_aula_2.mp4",
+          "new_name":"10500-video_aula_2.mp4",
+          "format":"mp4",
+          "link":"http://localhost:3001/10500-video_aula_2.mp4"
+        }
+      }
+    ]
+  },
+  {
+    "id":"70123s66-2346-4afa-afd8-b9466gfgd6de",
+    "created_at":"2020-09-16T01:27:04.000Z",
+    "updated_at":"2020-09-16T01:27:04.000Z",
+    "title":"Curso de Ingles Intermediário",
+    "subtitle":"Meu curso de inglês intermediário",
+    "description":"Aprendendo ingles intermediário facil facil",
+    "studentPrerequisites":"Sem pré requisitos",
+    "studentTargets":"Estudantes que querem aprimorar o ingles",
+    "goals":"novo idioma pra voce",
+    "totalScore":4,
+    "level":"INTERMEDIARIO",
+    "language":"INGLES",
+    "numberOfRatings":2,
+    "teacher":{
+      "id":"48935754-9a97-40d8-b6b4-0a808597f314",
+      "created_at":"2020-09-16T01:26:28.000Z",
+      "updated_at":"2020-09-16T01:26:28.000Z",
+      "firstName":"Luiz",
+      "lastName":"Antonio",
+      "email":"luizantonio@email.com",
+      "about":"Sou formado em Letras",
+      "specialty":"Sou especialista em Ingles"
+    },
+    "courseImage":{
+      "id":"b2b6d86b-e9e6-41f8-86ae-c76363b114fa",
+      "created_at":"2020-09-16T01:27:04.000Z",
+      "updated_at":"2020-09-16T01:27:04.000Z",
+      "old_name":"imagem_capa.jpg",
+      "new_name":"7919-imagem_capa.jpg",
+      "format":"jpg",
+      "link":"http://localhost:3001/7919-imagem_capa.jpg"
+    },
+    "contents":[
+
+    ]
+  },
+  {
+    "id":"72284e66-2116-4a3a-a8d8-b9466b3ee6de",
+    "created_at":"2020-09-16T01:27:04.000Z",
+    "updated_at":"2020-09-16T01:27:04.000Z",
+    "title":"Curso de Ingles Básico",
+    "subtitle":"Esse é o mais novo curso de ingles básico na plataforma",
+    "description":"Aqui você vai aprender o básico sobre o idioma ingles com aulas dinamicas",
+    "studentPrerequisites":"Não é preciso pré requisitos",
+    "studentTargets":"Estudantes que querem aprender um novo idioma",
+    "goals":"Ensinar um novo idioma pra voce",
+    "totalScore":5,
+    "level":"INICIANTE",
+    "language":"INGLES",
+    "numberOfRatings":1,
+    "teacher":{
+      "id":"48935754-9a97-40d8-b6b4-0a808597f314",
+      "created_at":"2020-09-16T01:26:28.000Z",
+      "updated_at":"2020-09-16T01:26:28.000Z",
+      "firstName":"Luiz",
+      "lastName":"Antonio",
+      "email":"luizantonio@email.com",
+      "about":"Sou formado em Letras",
+      "specialty":"Sou especialista em Ingles"
+    },
+    "courseImage":{
+      "id":"b2b6d86b-e9e6-41f8-86ae-c76363b114fa",
+      "created_at":"2020-09-16T01:27:04.000Z",
+      "updated_at":"2020-09-16T01:27:04.000Z",
+      "old_name":"imagem_capa.jpg",
+      "new_name":"7919-imagem_capa.jpg",
+      "format":"jpg",
+      "link":"http://localhost:3001/7919-imagem_capa.jpg"
+    },
+    "contents":[
+      {
+        "id":"f31f237e-25db-4c4c-8c70-7b5faf050b83",
+        "created_at":"2020-09-16T01:27:04.000Z",
+        "updated_at":"2020-09-16T01:27:04.000Z",
+        "title":"Aula Introdutoria",
+        "contentType":"VIDEO",
+        "description":"Aqui voce vai ver como sera a metodologia",
+        "file":{
+          "id":"8758ee37-b6f5-4cc4-b650-e205bd10e42f",
+          "created_at":"2020-09-16T01:27:04.000Z",
+          "updated_at":"2020-09-16T01:27:04.000Z",
+          "old_name":"video_aula_1.mp4",
+          "new_name":"1119-video_aula_1.mp4",
+          "format":"mp4",
+          "link":"http://localhost:3001/1119-video_aula_1.mp4"
+        }
+      },
+      {
+        "id":"c77be882-5b5f-49e4-b83a-aeedc9bbd746",
+        "created_at":"2020-09-16T01:27:04.000Z",
+        "updated_at":"2020-09-16T01:27:04.000Z",
+        "title":"Conceitos Básicos sobre o idioma ingles",
+        "contentType":"VIDEO",
+        "description":"Nessa aula voce vai aprender os primeiros conceitos",
+        "file":{
+          "id":"7d9dbc90-e59d-4a8e-a2e3-cc89ea8e54db",
+          "created_at":"2020-09-16T01:27:04.000Z",
+          "updated_at":"2020-09-16T01:27:04.000Z",
+          "old_name":"video_aula_3.mp4",
+          "new_name":"10664-video_aula_3.mp4",
+          "format":"mp4",
+          "link":"http://localhost:3001/10664-video_aula_3.mp4"
+        }
+      },
+      {
+        "id":"bc54b5e3-0870-4d5c-b89c-6cbfb935a6c0",
+        "created_at":"2020-09-16T01:27:04.000Z",
+        "updated_at":"2020-09-16T01:27:04.000Z",
+        "title":"Historia do idioma",
+        "contentType":"VIDEO",
+        "description":"Nesta aula voce vai aprender sobre a historia do idioma ingles",
+        "file":{
+          "id":"61d06f3b-1707-42fb-81d8-164243169482",
+          "created_at":"2020-09-16T01:27:04.000Z",
+          "updated_at":"2020-09-16T01:27:04.000Z",
+          "old_name":"video_aula_2.mp4",
+          "new_name":"10500-video_aula_2.mp4",
+          "format":"mp4",
+          "link":"http://localhost:3001/10500-video_aula_2.mp4"
+        }
+      }
+    ]
+  },
+  {
+    "id":"97a0ebe4-c210-4031-bf9d-17cce5cb35be",
+    "created_at":"2020-09-16T01:27:04.000Z",
+    "updated_at":"2020-09-16T01:27:04.000Z",
+    "title":"Curso de Francês Avançado",
+    "subtitle":"Quem já domina o idioma frances e quer aprender mais, acesse esse curso",
+    "description":"Aqui você vai aprender sobre a parte avançada do idioma frances",
+    "studentPrerequisites":"Precisa saber verbos, pronomes, substantivos e adverbio",
+    "studentTargets":"Estudantes que querem ter mais conhecimento sobre o idioma frances",
+    "goals":"Aprimorar seus conhecimentos",
+    "totalScore":0,
+    "level":"AVANCADO",
+    "language":"FRANCES",
+    "numberOfRatings":5,
+    "teacher":{
+      "id":"48935754-9a97-40d8-b6b4-0a808597f314",
+      "created_at":"2020-09-16T01:26:28.000Z",
+      "updated_at":"2020-09-16T01:26:28.000Z",
+      "firstName":"Luiz",
+      "lastName":"Antonio",
+      "email":"luizantonio@email.com",
+      "about":"Sou formado em Letras",
+      "specialty":"Sou especialista em Ingles"
+    },
+    "courseImage":{
+      "id":"d6ff05ad-f7c0-4ed6-92cf-a43fde4b8804",
+      "created_at":"2020-09-16T01:27:04.000Z",
+      "updated_at":"2020-09-16T01:27:04.000Z",
+      "old_name":"imagem_capa_curso_frances.jpg",
+      "new_name":"148896-imagem_capa.jpg",
+      "format":"jpg",
+      "link":"http://localhost:3001/148896-imagem_capa.jpg"
+    },
+    "contents":[
+
+    ]
+  },
+  {
+    "id":"bf9878d0-a050-45d7-93e6-7136cf387951",
+    "created_at":"2020-09-16T01:27:04.000Z",
+    "updated_at":"2020-09-16T01:27:04.000Z",
+    "title":"Curso de Alemao Básico",
+    "subtitle":"Para quem quer aprender alemão",
+    "description":"Aqui voce aprende que o alemao é legal",
+    "studentPrerequisites":"Precisa ter vontade de aprender",
+    "studentTargets":"Brasileiros",
+    "goals":"Ensinar o básico de alemão apartir do zero",
+    "totalScore":3,
+    "level":"INICIANTE",
+    "language":"ALEMAO",
+    "numberOfRatings":1,
+    "teacher":{
+      "id":"2d509ce5-1ee0-4a8f-ae04-59d0db3bf137",
+      "created_at":"2020-09-16T01:26:28.000Z",
+      "updated_at":"2020-09-16T01:26:28.000Z",
+      "firstName":"Thiago",
+      "lastName":"Montero",
+      "email":"montero-thiago@email.com",
+      "about":"Sou formado em alemao",
+      "specialty":"Sou professor de alemao"
+    },
+    "courseImage":{
+      "id":"fcb00036-7579-457f-a9a4-b8e632024bed",
+      "created_at":"2020-09-16T01:27:04.000Z",
+      "updated_at":"2020-09-16T01:27:04.000Z",
+      "old_name":"imagem_capa_curso_alemao",
+      "new_name":"11472-imagem_capa_curso_alemao",
+      "format":"jpg",
+      "link":"http://localhost:3001/11472-imagem_capa_curso_alemao.jpg"
+    },
+    "contents":[
+
+    ]
+  },
+  {
+    "id":"d2115140-3c6f-4e3d-8331-49c9a898a6e7",
+    "created_at":"2020-09-16T01:27:04.000Z",
+    "updated_at":"2020-09-16T01:27:04.000Z",
+    "title":"Curso de Ingles Intermediário com o professor thiago",
+    "subtitle":"Agora estou com curso de ingles intermediario",
+    "description":"Vamos reforçar seu ingles?",
+    "studentPrerequisites":"Básico do ingles",
+    "studentTargets":"Praticantes de ingles",
+    "goals":"reforçar seu ingles básico",
+    "totalScore":4,
+    "level":"INTERMEDIARIO",
+    "language":"INGLES",
+    "numberOfRatings":2,
+    "teacher":{
+      "id":"2d509ce5-1ee0-4a8f-ae04-59d0db3bf137",
+      "created_at":"2020-09-16T01:26:28.000Z",
+      "updated_at":"2020-09-16T01:26:28.000Z",
+      "firstName":"Thiago",
+      "lastName":"Montero",
+      "email":"montero-thiago@email.com",
+      "about":"Sou formado em alemao",
+      "specialty":"Sou professor de alemao"
+    },
+    "courseImage":{
+      "id":"d0e1d76e-112c-4d95-ab6c-da3b4aadf25d",
+      "created_at":"2020-09-16T01:27:04.000Z",
+      "updated_at":"2020-09-16T01:27:04.000Z",
+      "old_name":"imagem_capa_curso_ingles_inter",
+      "new_name":"11653-imagem_capa_curso_ingles_inter",
+      "format":"jpg",
+      "link":"http://localhost:3001/11653-imagem_capa_curso_ingles_inter.jpg"
+    },
+    "contents":[
+
+    ]
+  }
+]

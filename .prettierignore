@@ -1,0 +1,8 @@
+dist
+*.json
+migrations
+coverage
+.nyc_output
+.scannerwork
+.idea
+build
